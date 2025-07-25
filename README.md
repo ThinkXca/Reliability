@@ -64,9 +64,9 @@ https://data.matr.io/1/api/v1/file/5dcef152110002c7215b2c90/download
 
 ## Acknowledgements
 
-<p>[2025.07.24] Many thanks to <a href="https://github.com/jianfeizhang">Jianfei Zhang</a>, <a href="https://github.com/wei872">Longfei Wei</a>, and <a href="https://github.com/qingchongjiao">Qingchong Jiao</a> for their contributions to the code.</p>
+<p>Many thanks to <a href="https://github.com/jianfeizhang">Jianfei Zhang</a>, <a href="https://github.com/wei872">Longfei Wei</a>, and <a href="https://github.com/qingchongjiao">Qingchong Jiao</a> for their contributions to the code.</p>
 
-<p>[2025.07.24] Many thanks to <a href="https://github.com/Rasheed19/battery-survival">battery-survival</a>, Support provided for lithium battery data processing.</p>
+<p>Many thanks to <a href="https://github.com/Rasheed19/battery-survival">battery-survival</a>, Support provided for lithium battery data processing.</p>
 
 <p>Some amazing enhancements will also come out soon.</p>
 
