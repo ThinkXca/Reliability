@@ -9,7 +9,7 @@
 
 ### NASA-Turbofan
 
-<p>Download link for the NASA Turbofan dataset: <a href="https://phm-datasets.s3.amazonaws.com/NASA/6.+Turbofan+Engine+Degradation+Simulation+Data+Set.zip">NASA Turbofan Dataset</a></p> 
+<p>NASA Turbofan Dataset: <a href="https://phm-datasets.s3.amazonaws.com/NASA/6.+Turbofan+Engine+Degradation+Simulation+Data+Set.zip">Download</a></p> 
 
 <p>Specifically, we only used the data <code>train_FD002.txt</code> and <code>test_FD002.txt</code> as the experimental dataset.</p>
 
@@ -41,7 +41,7 @@ https://data.matr.io/1/api/v1/file/5dcef152110002c7215b2c90/download
 
 ### NASA-Battery
 
-<p>Download link for the NASA dataset: <a href="https://phm-datasets.s3.amazonaws.com/NASA/5.+Battery+Data+Set.zip">NASA Battery Dataset</a></p> 
+<p>NASA Battery Dataset: <a href="https://phm-datasets.s3.amazonaws.com/NASA/5.+Battery+Data+Set.zip">Download</a></p> 
 
 <p>Specifically, we only used the data contained in <code>./5.+Battery+Data+Set.zip/BatteryAgingARC-FY08Q4.zip</code> as the experimental dataset.</p>
 
