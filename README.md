@@ -9,7 +9,7 @@
 
 ### NASA-Turbofan
 
-<p>Download link for the NASA Turbofan dataset: <a href=" https://phm-datasets.s3.amazonaws.com/NASA/6.+Turbofan+Engine+Degradation+Simulation+Data+Set.zip">NASA Turbofan Dataset</a></p> 
+<p>Download link for the NASA Turbofan dataset: <a href="https://phm-datasets.s3.amazonaws.com/NASA/6.+Turbofan+Engine+Degradation+Simulation+Data+Set.zip">NASA Turbofan Dataset</a></p> 
 
 <p>Specifically, we only used the data <code>train_FD002.txt</code> and <code>test_FD002.txt</code> as the experimental dataset.</p>
 
