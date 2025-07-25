@@ -1,13 +1,13 @@
-<div align="center">
-  <h1 align="center">Learning Representation of Time-varying Features for Predicting Remaining Useful Life in Equipment Reliability Assessment</h1>
-  <h2 align="center">2025</h2>
+<div>
+  <h1>Learning Representation of Time-varying Features for Predicting Remaining Useful Life in Equipment Reliability Assessment</h1>
+  <h2>2025</h2>
 
 ### [Web](https://thinkx.ca/research/reliability) 
 
 
 ## Data
 
-<p align="justify">
+<p>
 ### NASA-Turbofan
 
 <p>Download link for the NASA Turbofan dataset: <a href=" https://phm-datasets.s3.amazonaws.com/NASA/6.+Turbofan+Engine+Degradation+Simulation+Data+Set.zip">NASA Turbofan Dataset</a></p> 
