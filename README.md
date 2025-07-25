@@ -23,9 +23,9 @@
 <p>These two datasets can be loaded by the five survival models directly.</p>
 
 
-<p>Download original Toyota data:</p>
+<p>Original Toyota dataset</p>
+<a href="https://data.matr.io/1/api/v1/file/5c86c0b5fa2ede00015ddf66/download">Download Dataset 1</a>
 
-https://data.matr.io/1/api/v1/file/5c86c0b5fa2ede00015ddf66/download
 https://data.matr.io/1/api/v1/file/5c86bf13fa2ede00015ddd82/download
 https://data.matr.io/1/api/v1/file/5c86bd64fa2ede00015ddbb2/download
 https://data.matr.io/1/api/v1/file/5dcef689110002c7215b2e63/download
