@@ -1,8 +1,7 @@
 <div>
   <h1>Learning Representation of Time-varying Features for Predicting Remaining Useful Life in Equipment Reliability Assessment</h1>
-  <h2>2025</h2>
 
-### [Web](https://thinkx.ca/research/reliability) 
+# [Web](https://thinkx.ca/research/reliability) 
 
 
 ## Data
