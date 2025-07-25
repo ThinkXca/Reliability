@@ -6,7 +6,7 @@
 
 ## Data
 
-<p>
+
 ### NASA-Turbofan
 
 <p>Download link for the NASA Turbofan dataset: <a href=" https://phm-datasets.s3.amazonaws.com/NASA/6.+Turbofan+Engine+Degradation+Simulation+Data+Set.zip">NASA Turbofan Dataset</a></p> 
