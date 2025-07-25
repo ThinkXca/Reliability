@@ -2,7 +2,7 @@ import torch
 import torch.nn as nn
 import torch.nn.functional as F
 
-# === 1. 定义TLSTM模型 ===
+
 
 class TLSTM(nn.Module):
     def __init__(self, input_dim, hidden_dim, output_dim, fc_dim, dropout=0.5):
